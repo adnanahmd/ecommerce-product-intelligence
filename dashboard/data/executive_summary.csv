@@ -1,0 +1,2 @@
+total_orders,unique_customers,delivered_orders,delivery_completion_rate,delivered_revenue,average_order_value,average_delivery_days,late_delivery_rate,average_review_score,repeat_orders,repeat_order_rate
+99441,96096,96478.0,97.02,15419773.75,159.83,12.56,8.11,4.16,3345.0,3.36

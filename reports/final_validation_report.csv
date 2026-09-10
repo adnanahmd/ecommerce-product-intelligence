@@ -1,0 +1,17 @@
+check,passed,observed,expected
+Order fact row count,True,99441,99441
+Order fact has one row per order,True,99441,99441
+Item fact row count,True,112650,112650
+Item fact compound key is unique,True,0,0
+All item orders exist in order fact,True,0,0
+All item products exist in product dimension,True,0,0
+All item sellers exist in seller dimension,True,0,0
+Product value preserved,True,13591643.7,13591643.7
+Freight value preserved,True,2251909.54,2251909.54
+Installment counts are at least one,True,0,0
+Product weights are positive or missing,True,0,0
+No negative item prices,True,0,0
+No negative payment values,True,0,0
+Every item has a product category,True,0,0
+Location-distance coverage exceeds 99%,True,99.51%,At least 99%
+No order timeline anomalies,True,0,0

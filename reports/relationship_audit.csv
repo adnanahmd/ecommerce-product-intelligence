@@ -1,0 +1,8 @@
+relationship,non_null_child_rows,orphan_rows,orphan_unique_values,relationship_valid
+orders → customers,99441,0,0,True
+items → orders,112650,0,0,True
+items → products,112650,0,0,True
+items → sellers,112650,0,0,True
+payments → orders,103886,0,0,True
+reviews → orders,99224,0,0,True
+products → category translations,32341,13,2,False

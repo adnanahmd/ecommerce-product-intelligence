@@ -1,0 +1,9 @@
+dataset,proposed_key,total_rows,null_key_rows,rows_in_duplicate_keys,key_is_unique
+olist_customers_dataset,customer_id,99441,0,0,True
+olist_orders_dataset,order_id,99441,0,0,True
+olist_products_dataset,product_id,32951,0,0,True
+olist_sellers_dataset,seller_id,3095,0,0,True
+olist_order_items_dataset,order_id + order_item_id,112650,0,0,True
+olist_order_payments_dataset,order_id + payment_sequential,103886,0,0,True
+olist_order_reviews_dataset,review_id,99224,0,1603,False
+product_category_name_translation,product_category_name,71,0,0,True
