@@ -6,6 +6,16 @@ An end-to-end data analytics project examining sales, product performance, fulfi
 
 [View the interactive Tableau dashboard](https://public.tableau.com/views/E-CommerceProductIntelligenceDashboard/ExecutiveOverview)
 
+## Dashboard Preview
+
+### Executive Overview
+
+[![Executive Overview Dashboard](dashboard/images/executive_overview.png)](https://public.tableau.com/views/E-CommerceProductIntelligenceDashboard/ExecutiveOverview)
+
+### Operations & Customer Experience
+
+[![Operations and Customer Experience Dashboard](dashboard/images/operations_customer_experience.png)](https://public.tableau.com/views/E-CommerceProductIntelligenceDashboard/ExecutiveOverview)
+
 ## Project Summary
 
 This project analyzes 99,441 e-commerce orders using Python, MariaDB SQL, and Tableau. Raw marketplace data was audited, cleaned, modeled into a relational warehouse, analyzed through reusable SQL views, and presented in two interactive dashboards.
